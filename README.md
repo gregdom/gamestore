@@ -1,8 +1,8 @@
 Frontend do projeto da Formação Full Stack Web Developer na escola Tera.<br>
 Página online no Github Pages: https://gregdom.github.io/gamestore/<br>
 <br>
-Categoria: E-commerce;<br>
-Área: Jogos;<br>
+Categoria: E-commerce.<br>
+Área: Jogos.<br>
 Tecnologias do projeto: HTML 5, CSS 3, Javascript.<br>
 Responsividade com CSS Grid e Flexbox.<br>
 <br>
