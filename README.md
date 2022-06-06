@@ -11,6 +11,6 @@ Gregory Domingos: https://www.linkedin.com/in/gregorydom/ <br>
 Heverton Guedes: https://www.linkedin.com/in/heverton-guedes-a9827041/ <br>
 Bruno Catan: https://www.linkedin.com/in/brunocatan/ <br>
 <br>
-Escola Tera:
+Escola Tera:<br>
 https://somostera.com/ <br>
 https://www.linkedin.com/school/somostera/
