@@ -1,4 +1,4 @@
-Frontend do projeto da Formação Full Stack Web Developer na escola Tera (https://www.linkedin.com/school/somostera/).
+Frontend do projeto da Formação Full Stack Web Developer na escola Tera (https://www.linkedin.com/school/somostera/). <br>
 Categoria: E-commerce;
 Área: Jogos;
 Tecnologias do projeto: HTML 5, CSS 3, Javascript.
